@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="cmpe275-lab-aop-tweet-stat/src/main/java"/>
+	<classpathentry kind="src" path="cmpe275-lab-aop-tweet-stat/src/test/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/AspecJ"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Spring"/>
+	<classpathentry kind="lib" path="C:/Users/namra/Downloads/aspectjrt.jar/aspectjrt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/namra/Downloads/aspectj-weaver.jar/aspectj-weaver.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
